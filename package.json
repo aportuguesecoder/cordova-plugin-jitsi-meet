@@ -10,11 +10,5 @@
   "platforms": [
     "android",
     "ios"
-  ],
-   "engines": [
-    {
-      "name": "cordova",
-      "version": "8.0.0"
-    }
   ]
 }
