@@ -1,5 +1,4 @@
 repositories{
-	jcenter()
 	maven {
 		url "https://github.com/jitsi/jitsi-maven-repository/tree/master/releases"
 	}
