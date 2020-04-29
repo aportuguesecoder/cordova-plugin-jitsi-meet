@@ -32,9 +32,7 @@ android {
 }
 dependencies {
 
-	compile('org.jitsi.react:jitsi-meet-sdk:1.21.0@aar') {
-		transitive = true;
-	}
+	api 'org.jitsi.react:jitsi-meet-sdk:1.21.0@aar'
 
 	//compile "com.android.support:appcompat-v7:28.0.0"
 	//compile "com.android.support:recyclerview-v7:27.0.2"
